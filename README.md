@@ -6,7 +6,7 @@
 - Twitter @cisnatinnov
 - Facebook Chenchen Dicky
 - My Hobbies are swimming, reading, cycling, and coding
-- My git repository is https://github.com/cisnatinnov 
+- My git repository is https://github.com/cisnatinnov
 
 <!---
 cisnatinnov/cisnatinnov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
