@@ -5,7 +5,7 @@
 - 📫 How to reach me 📧 cisnatinnov@gmail.com 📱 +628998748286 🔗 https://www.linkedin.com/in/mohamad-cendikia-isnatinnov-hairy-478437136
 - My Hobbies are swimming, reading, cycling, and coding
 - My git public is https://github.com/cisnatinnov
-- Keep try
+- Keep trying
 
 <!---
 cisnatinnov/cisnatinnov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
