@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me 📧 cisnatinnov@gmail.com 📱 +628998748286 🔗 https://www.linkedin.com/in/mohamad-cendikia-isnatinnov-hairy-478437136
 - Twitter @cisnatinnov
-- Facebook Chenchen Dicky
 - My Hobbies are swimming, reading, cycling, and coding
 - My git repository is https://github.com/cisnatinnov
 
