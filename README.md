@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning System Analyst, GCP BE and Code Review Automation
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me 📧 cisnatinnov@gmail.com 📱 +628998748286 🔗 https://www.linkedin.com/in/mohamad-cendikia-isnatinnov-hairy-478437136
+- Twitter @cisnatinnov
 - My Hobbies are swimming, reading, cycling, and coding
 - My git public is https://github.com/cisnatinnov
 
